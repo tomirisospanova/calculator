@@ -14,12 +14,12 @@ Welcome to the BMI (Body Mass Index) calculator web application! This tool allow
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/bmi-calculator.git
+    git clone https://github.com/tomirisospanova/calculator.git
     ```
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd bmi-calculator
+    cd calculator
     ```
 
 3. **Install Dependencies:**
